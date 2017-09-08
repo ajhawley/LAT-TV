@@ -13,3 +13,6 @@ https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream4_high.stream/chu
 #EXTM3U
 #EXTINF:0,Visiem LTV
 https://595ac1e01d44e.streamlock.net/ltv9/smil:ltv9.smil/chunklist_w1506949183_b600000_t64NjAwa2Jwcw==_tkd3pUZW5kdGltZT0xNTA0OTI5OTE2Jnd6VHN0YXJ0dGltZT0xNTA0ODg2NzE2Jnd6VGhhc2g9QnNOTnI0QVpaMlpFQ21wZFRIbDZxTFQ1dHM2QTZlWkN1MDNTNXd3VTdYaz0=.m3u8
+#EXTM3U
+#EXTINF:0,Riga TV24
+http://player.tvnet.lv/live/amlst:11.playlist.m3u8
