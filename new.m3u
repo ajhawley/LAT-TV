@@ -22,3 +22,6 @@ https://streamer4.tvdom.tv/LTV1/tracks-v1a1/index.m3u8?token=NhBpoIfDz-D2qTEgneI
 #EXTM3U
 #EXTINF:0,RE:TV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/chunklist.m3u8
+#EXTM3U
+#EXTINF:0,Kuldiga
+http://edge-telia1.tiesraides.lv/live/kuldiga.lv.12_1/chunklist.m3u8
