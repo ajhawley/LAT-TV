@@ -11,14 +11,20 @@ https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream3_high.stream/chu
 #EXTINF:0,TV6
 https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream4_high.stream/chunklist.m3u8
 #EXTM3U
-#EXTINF:0,Visiem LTV (test)
-https://595ac1e01d44e.streamlock.net/ltv9/smil:ltv9.smil/chunklist_w1506949183_b600000_t64NjAwa2Jwcw==_tkd3pUZW5kdGltZT0xNTA0OTI5OTE2Jnd6VHN0YXJ0dGltZT0xNTA0ODg2NzE2Jnd6VGhhc2g9QnNOTnI0QVpaMlpFQ21wZFRIbDZxTFQ1dHM2QTZlWkN1MDNTNXd3VTdYaz0=.m3u8
+#EXTINF:0,LTV1
+http://217.145.218.30:8404/ch404
+#EXTM3U
+#EXTINF:0,LTV7
+http://217.145.218.30:8402/ch402
+#EXTM3U
+#EXTINF:0,SportaCentrs
+http://217.145.218.30:8403/ch403
+#EXTM3U
+#EXTINF:0,Latvijas Slagerkanals
+http://217.145.218.30:8411/ch411
 #EXTM3U
 #EXTINF:0,Riga TV24
 http://player.tvnet.lv/live/amlst:11/playlist.m3u8
-#EXTM3U
-#EXTINF:0,LTV1 (test)
-https://streamer4.tvdom.tv/LTV1/tracks-v1a1/index.m3u8?token=NhBpoIfDz-D2qTEgneIz8AX58DfB5PKLOm2j8HFCZBn0U2aofK8rdTAi0041M4EAcFayty4RGMzbZt3ZYh7hywKWEBhQjHW92qBnGbizGm1Pee7HpdwcOBtuK9DgpZWxg93TVsfi1FpFY_9Uzf3_SAdCHUsemRqMfEjPWaR7Prrjz6nwxvT038CfBe28IiQ1sV9Gsa7gL7vzPHZfSTOogQlvaKaMUwZ7NZVt32i8pJdEw-6s2UhzjSZ4XkHitHPOos2jwGwJpP3JI1QDdgfbxA,,
 #EXTM3U
 #EXTINF:0,RE:TV
 http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/chunklist.m3u8
