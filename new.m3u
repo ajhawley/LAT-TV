@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,LNT
-https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream1_high.stream/chunklist.m3u8
+http://185.10.211.10:3000/45545446/ZtQkw8/441
 #EXTM3U
 #EXTINF:0,TV3 Latvija
 https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream2_high.stream/chunklist.m3u8
