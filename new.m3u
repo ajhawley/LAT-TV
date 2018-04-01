@@ -3,13 +3,13 @@
 http://185.10.211.10:3000/45545446/ZtQkw8/441
 #EXTM3U
 #EXTINF:0,TV3 Latvija
-https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream2_high.stream/chunklist.m3u8
+http://185.10.211.10:3000/45545446/ZtQkw8/445
 #EXTM3U
 #EXTINF:0,Kanal 2
-https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream3_high.stream/chunklist.m3u8
+http://185.10.211.10:3000/45545446/ZtQkw8/436
 #EXTM3U
 #EXTINF:0,TV6
-https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream4_high.stream/chunklist.m3u8
+http://185.10.211.10:3000/45545446/ZtQkw8/448
 #EXTM3U
 #EXTINF:0,LTV1
 http://217.145.218.30:8404/ch404
