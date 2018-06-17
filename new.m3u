@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1,LNT
+http://streams.iptv.zone:80/s/7736/c/574/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+#EXTINF:-1,LTV1
+http://streams.iptv.zone:80/s/7736/c/575/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+#EXTINF:-1,LTV7
+http://streams.iptv.zone:80/s/7736/c/576/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+#EXTINF:-1,Sporta Centrs TV
+http://streams.iptv.zone:80/s/7736/c/593/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+#EXTINF:-1,TV3 lv
+http://streams.iptv.zone:80/s/7736/c/577/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+#EXTINF:-1,TV3+ lv
+http://streams.iptv.zone:80/s/7736/c/578/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+#EXTINF:-1,TV6 lv
+http://streams.iptv.zone:80/s/7736/c/579/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+
+
+#EXTM3U
 #EXTINF:0,LNT
 http://185.10.211.10:3000/45545446/ZtQkw8/441
 #EXTM3U
