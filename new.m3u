@@ -9,7 +9,7 @@ http://185.10.211.10:3000/45545446/ZtQkw8/445
 http://185.10.211.10:3000/45545446/ZtQkw8/436
 #EXTM3U
 #EXTINF:0,TV6
-http://185.10.211.10:3000/45545446/ZtQkw8/448
+http://217.145.218.30:8407/ch407
 #EXTM3U
 #EXTINF:0,LTV1
 http://217.145.218.30:8404/ch404
@@ -31,3 +31,6 @@ http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/chunklist.m3u8
 #EXTM3U
 #EXTINF:0,Kuldiga
 http://edge-telia1.tiesraides.lv/live/kuldiga.lv.12_1/chunklist.m3u8
+#EXTM3U
+#EXTINF:0,i
+http://217.145.218.30:8404/ch404
