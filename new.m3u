@@ -1,20 +1,34 @@
-#EXTM3U
-#EXTINF:-1,LNT
-http://streams.iptv.zone:80/s/7736/c/574/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+
+
 #EXTINF:-1,LTV1
-http://streams.iptv.zone:80/s/7736/c/575/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+
+http://213.252.252.2/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+
 #EXTINF:-1,LTV7
-http://streams.iptv.zone:80/s/7736/c/576/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
-#EXTINF:-1,Sporta Centrs TV
-http://streams.iptv.zone:80/s/7736/c/593/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
-#EXTINF:-1,TV3 lv
-http://streams.iptv.zone:80/s/7736/c/577/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
-#EXTINF:-1,TV3+ lv
-http://streams.iptv.zone:80/s/7736/c/578/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
-#EXTINF:-1,TV6 lv
-http://streams.iptv.zone:80/s/7736/c/579/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
-#EXTINF:-1,Kanal 2
-http://streams.iptv.zone:80/p/390747/c/71/u/82373/yF5jJxQHsPrM8NyFvRwpHXXDb2t3mX
+
+http://213.252.252.2/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
+
+#EXTINF:-1,TV3 LV 
+
+http://213.252.252.2/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD.m3u8
+
+#EXTINF:-1,LNT
+
+http://213.252.252.2/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+
+#EXTINF:-1,TV6 LV
+
+http://213.252.252.2/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
+
+#EXTINF:-1,Kanāls 2
+
+http://213.252.252.2/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
+
+#EXTINF:-1,TV3+
+
+http://213.252.252.2/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
+
+http://213.252.252.2/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
 #EXTINF:-1,Latvijas Slagerkanals
 http://217.145.218.30:8411/ch411
 #EXTINF:0,Riga TV24
@@ -33,6 +47,5 @@ http://217.145.218.30:8404/ch404
 http://217.145.218.30:8402/ch402
 #EXTINF:0,SportaCentrs kopēt
 http://217.145.218.30:8403/ch403
-
 
 
